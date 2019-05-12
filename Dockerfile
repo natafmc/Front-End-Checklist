@@ -1,3 +1,3 @@
 FROM node:alpine
 RUN npm install
-RUN npm start or gulp dev
+EXPOSE 8080
